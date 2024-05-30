@@ -1,7 +1,6 @@
 const axios = require('axios');
 const { Telegraf } = require('telegraf');
-// Token=6486433943:AAFvm4VVYHdgSP4O2r8EoDnvB3zatbtNqQM
-const bot = new Telegraf("6486433943:AAFvm4VVYHdgSP4O2r8EoDnvB3zatbtNqQM");
+const bot = new Telegraf(Token);
 
 let binarysearch = `
   let recursiveFunction = function (arr, x, start, end) {
