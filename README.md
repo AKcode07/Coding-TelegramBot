@@ -4,3 +4,5 @@ You will Receive a Token.
 Require telegraf module to custom code the Bot.
 
 To Run the bot , the index.js should be run in IDE, to activate the Server and Enjoy the Bot.
+
+***Run 'npm install' command in Terminal to install all dependencies.***
